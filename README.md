@@ -68,7 +68,7 @@ logs.txt
 ## 👨‍💻 Author
 
 Huzaifa Malik  
-GitHub: https://github.com/your-username
+GitHub: https://github.com/huzaifamalik123swl-pixel
 
 ---
 
